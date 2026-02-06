@@ -32,12 +32,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sya17&show_icons=true&theme=default&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sya17&theme=default&hide_border=true" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sya17&theme=default" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sya17&theme=default&utcOffset=7" />
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sya17&layout=compact&langs_count=10&hide_border=true" />
+  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sya17&theme=default" />
 </p>
 
 ---
